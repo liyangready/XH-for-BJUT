@@ -1,0 +1,230 @@
+﻿
+
+.makeRight
+{
+    margin-right:0px;
+}
+.tableWidth
+{
+    width:80px;
+}
+.searchBox
+{
+    float:left;
+    width:150px;
+    height:16px;
+    padding:1px 2px;
+    margin:0 5px;
+    border:1px solid #619FCF
+}
+
+body 
+{
+    margin:0;
+    padding:0;
+    font-family:Verdana,sans-serif;
+    font-size:small;
+    background:#fff;
+}
+
+input,select,textarea
+{
+    border:1px solid #0273a5;
+    font-size:12px;
+    margin-left: 0px;
+    height: 18px;
+}
+
+a
+{
+    color:#74787e;
+    text-decoration:none;
+    
+}
+.a:link
+{
+    color:#808387;
+
+}
+
+a:visited
+{
+    color:#000000;
+}
+a:hover
+{
+    color:#06f;
+    text-decoration:underline;
+}
+
+.top
+{
+    width:900px;
+    margin:0 auto;
+  
+    height:220px;
+    border-bottom:1px solid #0273a5;
+    background-color:#fff; 
+}
+
+.con
+{
+    top:2px;
+    width:900px;
+    margin:0 auto;
+    background:#fff;
+}
+
+
+con.con1
+{ 
+    top:2px;
+    float:left;
+    width:260px; 
+    border:1px solid #f0f0f0;
+}
+
+con.con2
+{
+    float:right;
+    width:640px;
+    text-align:left;
+    line-height:24px;
+    position:relative;
+    top:2px;
+} 
+.foot
+{
+    width:900px;
+    margin:0 auto;
+    padding-top:12px;
+    background:#fff;
+    text-align:center;
+}
+.top img
+{
+  
+}
+.con2.menu2
+{
+   
+    height:24px;
+    width:640px;
+    color:#fff;
+    background:#baeb51;
+    margin-right:10px;
+    padding-left:10px;
+   
+}
+.con2.menu2 a
+{
+    color:#ffffff;
+}
+.clear
+{
+    clear:both;
+    font-size:1px;
+    width:1px;
+    visibility:hidden;
+}
+.foot div
+{
+    font-size:10px;
+    color:#999;
+    margin:5px auto;
+    font-family:Arial, Helvetica, Sans-Serif;
+}
+#siderbar .gutter
+{
+    padding:1px;
+}
+.box
+{
+    margin :0 0 6px 0;
+    padding:0 0 6px 0;
+    font-size:85%;
+    line-height:1.5em;
+    color:#666;
+    width:250px;
+}
+.item
+{
+    padding:0px 20px;
+    color: #ffffff;
+    text-decoration:none;
+}
+.view
+{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:600px;
+}
+.reg
+{
+    min-height:700px;
+    padding:1px;
+    
+    text-align:left;
+    line-height:28px;
+    border:1px solid #f0f0f0;
+    background:#fff;
+}
+
+
+     
+.huise:link {
+	font-size:12px;
+	color:#383C2B;
+	text-decoration:none;
+	line-height: 24px;
+	font-family: "宋体";
+}
+.huise:visited {
+	font-size:12px;
+	color:#383C2B;
+	text-decoration:none;
+	line-height: 24px;
+}
+.huise:hover {
+	font-size:12px;
+	color:#FF0000;
+	text-decoration:none;
+	font-family: "宋体";
+	line-height: 24px;
+}
+.huise:active {
+	font-size:12px;
+	color:#383C2B;
+	text-decoration:none;
+	font-family: "宋体";
+	line-height: 24px;
+} 
+.hong:link {
+	font-size:12px;
+	color: #FF0000;
+	text-decoration:none;
+	line-height: 24px;
+	font-family: "宋体";
+}
+.hong:visited {
+	font-size:12px;
+	color: #FF0000;
+	text-decoration:none;
+	line-height: 24px;
+}
+.hong:hover {
+	font-size:12px;
+	color:#FF0000;
+	text-decoration:none;
+	font-family: "宋体";
+	line-height: 24px;
+}
+.hong:active {
+	font-size:12px;
+	color: #FF0000;
+	text-decoration:none;
+	font-family: "宋体";
+	line-height: 24px;
+} 
+

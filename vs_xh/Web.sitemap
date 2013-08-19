@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap   xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="main.aspx" title="首页" description="首页">  
+    
+    <siteMapNode url="~/user/myinfo.aspx" title="我的星火" description="我的星火"/>
+    <siteMapNode url="~/pubperformce/bbs.aspx" title="论坛" description="论坛"/>
+    <siteMapNode url="~/pubperformce/note.aspx" title="通知发布" description="通知发布"/>
+    <siteMapNode url="~/pubperformce/result.aspx" title="成果展示" description="成果展示"/>
+    <siteMapNode url="~/pubperformce/contactus.aspx" title="联系我们" description="联系我们"/>  
+  </siteMapNode>
+</siteMap>

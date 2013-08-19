@@ -1,0 +1,15 @@
+	<siteMap defaultProvider="XmlSiteMapProvider">
+		<providers>
+			<add siteMapFile="Web.sitemap" name="qiantai" tyle="System.Web.XmlSiteMapProvider"/>
+			<add siteMapFile="houtai.sitemap" name="houtai" tyle="System.Web.XmlSiteMapProvider"/>
+		</providers>
+	</siteMap>
+	
+	 protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+    {
+        Sqldata choose = new Sqldata();
+        string key = TextBox1.Text.ToString();
+        string select_sql="select title from notes where connect like '%"key"%'";
+
+            
+    }
