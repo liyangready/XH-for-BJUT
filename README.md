@@ -5,4 +5,3 @@ a web system to help BJUT(beijing university of technology) managing Xinghuo Pro
 
 use VS2010 to open it!
 
-so...it is my first project,but it may not work- -!
